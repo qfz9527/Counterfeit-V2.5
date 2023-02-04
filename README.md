@@ -12,7 +12,7 @@ V2.5 has been updated for ease of use as anime-style model.
 I use this embedding for negative prompts.  
 https://huggingface.co/datasets/gsdf/EasyNegative  
   
-Share by-products　　
+Share by-products  
 V2.1…Feeling of use similar to V2.0  
 V2.2…NSFW model
   
