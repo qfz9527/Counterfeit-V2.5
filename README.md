@@ -11,7 +11,11 @@ inference: true
 V2.5 has been updated for ease of use as anime-style model.  
 I use this embedding for negative prompts.  
 https://huggingface.co/datasets/gsdf/EasyNegative  
-
+  
+Share by-products　　
+V2.1…Feeling of use similar to V2.0  
+V2.2…NSFW model
+  
 # Counterfeit-V2.5 e.g. 
 ![sample1](https://huggingface.co/gsdf/Counterfeit-V2.5/resolve/main/V2.5_sample/sample01.png)
 ```
